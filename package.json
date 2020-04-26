@@ -1,4 +1,17 @@
 {
   "name": "react-native-template-avalon-advanced",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-navigation",
+    "redux",
+    "redux-saga",
+    "babel",
+    "eslint",
+    "styled-components",
+    "lottie-react-native",
+    "lottie",
+    "react-native-template"
+  ]
 }
