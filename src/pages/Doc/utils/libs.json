@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "lib": "@react-native-community/masked-view"
+  },
+  {
+    "id": 2,
+    "lib": "@react-navigation/bottom-tabs"
+  },
+  {
+    "id": 3,
+    "lib": "@react-navigation/native"
+  },
+  {
+    "id": 4,
+    "lib": "@react-navigation/stack"
+  },
+  {
+    "id": 5,
+    "lib": "axios"
+  },
+  {
+    "id": 6,
+    "lib": "lottie-ios"
+  },
+  {
+    "id": 7,
+    "lib": "lottie-react-native"
+  },
+  {
+    "id": 8,
+    "lib": "prop-types"
+  },
+  {
+    "id": 9,
+    "lib": "react"
+  },
+  {
+    "id": 10,
+    "lib": "react-native"
+  },
+  {
+    "id": 11,
+    "lib": "react-native-gesture-handler"
+  },
+  {
+    "id": 12,
+    "lib": "react-native-reanimated"
+  },
+  {
+    "id": 13,
+    "lib": "react-native-safe-area-context"
+  },
+  {
+    "id": 14,
+    "lib": "react-native-screens"
+  },
+  {
+    "id": 15,
+    "lib": "react-native-vector-icons"
+  },
+  {
+    "id": 16,
+    "lib": "react-redux"
+  },
+  {
+    "id": 17,
+    "lib": "reactotron-react-native"
+  },
+  {
+    "id": 18,
+    "lib": "reactotron-redux"
+  },
+  {
+    "id": 19,
+    "lib": "reactotron-redux-saga"
+  },
+  {
+    "id": 20,
+    "lib": "redux"
+  },
+  {
+    "id": 21,
+    "lib": "redux-saga"
+  },
+  {
+    "id": 22,
+    "lib": "reduxsauce"
+  },
+  {
+    "id": 23,
+    "lib": "seamless-immutable"
+  },
+  {
+    "id": 24,
+    "lib": "styled-components"
+  },
+  {
+    "id": 25,
+    "lib": "@babel/core"
+  },
+  {
+    "id": 26,
+    "lib": "@babel/runtime"
+  },
+  {
+    "id": 27,
+    "lib": "@react-native-community/eslint-config"
+  },
+  {
+    "id": 28,
+    "lib": "babel-eslint"
+  },
+  {
+    "id": 29,
+    "lib": "babel-jest"
+  },
+  {
+    "id": 30,
+    "lib": "babel-plugin-root-import"
+  },
+  {
+    "id": 31,
+    "lib": "eslint"
+  },
+  {
+    "id": 32,
+    "lib": "eslint-config-airbnb"
+  },
+  {
+    "id": 33,
+    "lib": "eslint-import-resolver-babel-plugin-root-import"
+  },
+  {
+    "id": 34,
+    "lib": "eslint-plugin-import"
+  },
+  {
+    "id": 35,
+    "lib": "eslint-plugin-jsx-a11y"
+  },
+  {
+    "id": 36,
+    "lib": "eslint-plugin-react"
+  },
+  {
+    "id": 37,
+    "lib": "eslint-plugin-react-native"
+  },
+  {
+    "id": 38,
+    "lib": "jest"
+  },
+  {
+    "id": 39,
+    "lib": "metro-react-native-babel-preset"
+  },
+  {
+    "id": 40,
+    "lib": "react-test-renderer"
+  }
+]
