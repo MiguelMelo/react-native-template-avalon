@@ -70,6 +70,3 @@ app.json
 metro.config.js
 yarn.lock
 package.lock
-
-# Temporary
-README.md

@@ -1,6 +1,7 @@
 {
   "name": "react-native-template-avalon-advanced",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "Template with the most modern libraries for React Native best development and perfomance. Made with a lot of ☕ and 😍",
   "keywords": [
     "react",
     "react-native",
@@ -13,5 +14,12 @@
     "lottie-react-native",
     "lottie",
     "react-native-template"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelMelo/react-native-template-avalon-advanced.git"
+  },
+  "homepage": "https://github.com/MiguelMelo/react-native-template-avalon-advanced#readme",
+  "author": "Carlos Miguel <miguel21.melo21@gmail.com>",
+  "license": "MIT"
 }
