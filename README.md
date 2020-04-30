@@ -169,7 +169,7 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 Para testar o template de um caminho local, coloque o caminho absoluto junto com o prefixo `file://`
 
 ```
-react-native init AwesomeContribution --template file:///Users/Dev/contributions/react-native-template-rocketseat-advanced
+react-native init AwesomeContribution --template file://Dev/contributions/react-native-template-avalon-advanced
 ```
 
 ## Licença
